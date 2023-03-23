@@ -1,6 +1,6 @@
 # Welcome to My Github Account
 * My name is Batara Hotdo Horas Simbolon
-* I'm an Informatics Engineering student at Universitas Multimedia Nusantara.
+* I'm an Informatics Engineering student at Universitas Multimedia Nusantara
 
 ### Socials
 
