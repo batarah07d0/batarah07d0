@@ -1,4 +1,4 @@
-# Welcome to My Github Account
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=batarah07d0&label=Profile%20views&color=0e75b6&style=flat" alt="batarah07d0" /> </p># Welcome to My Github Account
 * My name is Batara Hotdo Horas Simbolon
 * I'm an Informatics Engineering student at Universitas Multimedia Nusantara
 
