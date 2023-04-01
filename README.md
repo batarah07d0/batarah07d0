@@ -2,8 +2,8 @@
 * My name is Batara Hotdo Horas Simbolon
 * I'm an Informatics Engineering student at Universitas Multimedia Nusantara
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=batarah07d0&label=Profile%20views&color=0e75b6&style=flat" alt="batarah07d0" /> </p>
-### Socials
 
+### Socials
 <p align="left"> <a href="https://discord.com/users/LEGION#1951" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/batarah07d0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/batara.hotdo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/batara-hotdo-horas-simbolon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
