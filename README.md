@@ -1,5 +1,6 @@
 # Hi👋, My name is Batara Hotdo Horas Simbolon
-I'm an Informatics student with a strong passion for mobile app development. I enjoy using technology to solve real problems and make people’s lives easier.
+I'm an Informatics student at Multimedia Nusantara University.
+I enjoy using technology to solve real problems and make people’s lives easier.
 
 <a href="https://www.github.com/batarah07d0" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/batarah07d0?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a>
