@@ -1,4 +1,4 @@
-# Hi, My name is Batara Hotdo Horas Simbolon
+# Hi, My name is Batara Hotdo
 I'm an Informatics student at Multimedia Nusantara University and I enjoy using technology to solve real problems and make people’s lives easier.
 
 ### Languages and Tools
